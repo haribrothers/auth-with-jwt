@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "ui"
+		},
+		{
+			"path": "server"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"dbaeumer.vscode-eslint",
+			"angular.ng-template",
+			"amazonwebservices.amazon-q-vscode",
+			"esbenp.prettier-vscode",
+			"eamodio.gitlens",
+			"mhutchie.git-graph"
+		]
+	}
+}
